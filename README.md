@@ -73,6 +73,11 @@ npm config set registry https://registry.npm.taobao.org
 
 npm install -g create-react-app
 
+create-react-app my-blog
+？？？为啥不能识别
+npx create-react-app my-blog
+
+npm install router??
 
 npm install express mongoose cors body-parser jsonwebtoken bcryptjs
 npm install typescript @types/node @types/express @types/mongoose ts-node
